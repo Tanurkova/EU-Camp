@@ -121,7 +121,7 @@
 
     .social i:hover{
         animation: roll 3s infinite;
-        transform: rotate(20deg);
+        transform: rotate(10deg);
       }
 
       .right_cont{
@@ -155,8 +155,7 @@
         color: rgb(255, 123, 0);
         border-left: 2px solid white;
         border-right: 2px solid white;
-        padding: 10px 15px;
-        font-size: 25px ;
+        padding: 0px 10px;
       }
 
 
@@ -201,6 +200,11 @@
         0% {left: -110px}
         100% {left: 0px}
       }
+  
+
+
+      
+    
   
 
 
